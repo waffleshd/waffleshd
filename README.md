@@ -10,6 +10,8 @@ Flappy bird is too difficult, so I built my own version of it and then set a neu
 
 [![Watch the video](thumbnail.png)]([https://youtu.be/yourvideo](https://youtu.be/1FoqGZJ0d1U))
 
+Watch it work: https://youtu.be/1FoqGZJ0d1U
+
 📊 **Gradio Sorting Project** - (https://github.com/waffleshd/gradio-sort-project)
 
 Originally my final project for my computing class, this project visually displays how bubble sort (my personal fave based on looks) works. It also taught me how to use gradio, which I will definitely be using more in any future AI projects.
