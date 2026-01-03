@@ -8,13 +8,15 @@
 
 Flappy bird is too difficult, so I built my own version of it and then set a neural net loose on it. Jokes aside, this is pretty much my first honest attempt to build an AI that actually has some use.
 
-[![Watch the video](thumbnail.png)]([https://youtu.be/yourvideo](https://youtu.be/1FoqGZJ0d1U))
+![Preview of AI](flappy_bird_preview.png)
 
 Watch it work: https://youtu.be/1FoqGZJ0d1U
 
 📊 **Gradio Sorting Project** - (https://github.com/waffleshd/gradio-sort-project)
 
 Originally my final project for my computing class, this project visually displays how bubble sort (my personal fave based on looks) works. It also taught me how to use gradio, which I will definitely be using more in any future AI projects.
+
+![Preview of the Sorter](gradio_sort_preview.png)
 
 🏕️ **Camping Game** - (https://github.com/waffleshd/camping_game)
 
