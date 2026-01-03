@@ -23,7 +23,9 @@ Originally my final project for my computing class, this project visually displa
 Unfinished demo for a camping game I had envisioned using Godot. Even though the game is not finished, it helped me learn about Github, and cemented various other OOP ideas for me. 
 
 ## My Skills 🛠️
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waffleshd&layout=compact)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 <!--
 **waffleshd/waffleshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
