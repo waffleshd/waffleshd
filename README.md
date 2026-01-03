@@ -1,7 +1,5 @@
 # Hi, Hallo! 🇩🇪
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waffleshd)](https://github.com/anuraghazra/github-readme-stats)
-
 *Pursuing my lifelong goal of making computers do things so I don't have to*
 
 ## Featured Projects
@@ -24,7 +22,8 @@ Originally my final project for my computing class, this project visually displa
 
 Unfinished demo for a camping game I had envisioned using Godot. Even though the game is not finished, it helped me learn about Github, and cemented various other OOP ideas for me. 
 
-
+## My Skills 🛠️
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waffleshd&layout=compact)
 <!--
 **waffleshd/waffleshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
