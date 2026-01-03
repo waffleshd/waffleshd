@@ -25,8 +25,6 @@ Originally my final project for my computing class, this project visually displa
 
 Flappy bird is too difficult, so I built my own version of it and then set a neural net loose on it. Jokes aside, this is pretty much my first honest attempt to build an AI that actually has some use.
 
-![Preview of AI](flappy_bird_preview.png)
-
 Watch it at work: https://youtu.be/1FoqGZJ0d1U
 
 🏕️ **Camping Game** - (https://github.com/waffleshd/camping_game)
