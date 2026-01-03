@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, Hallo! 🇩🇪
+
+*Pursuing my lifelong goal of making computers do things so I don't have to*
+
+
 
 <!--
 **waffleshd/waffleshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
