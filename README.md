@@ -1,5 +1,7 @@
 # Hi, Hallo! 🇩🇪
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waffleshd)](https://github.com/anuraghazra/github-readme-stats)
+
 *Pursuing my lifelong goal of making computers do things so I don't have to*
 
 ## Featured Projects
