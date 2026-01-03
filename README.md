@@ -24,8 +24,9 @@ Unfinished demo for a camping game I had envisioned using Godot. Even though the
 
 ## My Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 <!--
 **waffleshd/waffleshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
