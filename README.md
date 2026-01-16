@@ -23,12 +23,12 @@ Originally my final project for my computing class, this project visually displa
 
 🐤 **Flappy Bird AI** - (https://github.com/waffleshd/NEAT-Flappy-Bird)
 
-Flappy bird is too difficult, so I built my own version of it and then set a neural net loose on it. Jokes aside, this is pretty much my first honest attempt to build an AI that actually has some use.
+Flappy bird is too difficult, so I built my own version of it and then set a neural net loose on it. I used NEAT (neuroevolution of augmented topology), an evolutionary algorithm to learn to play flappy bird. In the end, it was able to play so well that it never loses.
 
 Watch it at work: https://youtu.be/1FoqGZJ0d1U
 
-🏕️ **Camping Game** - (https://github.com/waffleshd/camping_game)
+🔢 **Digit Eye** - (https://github.com/waffleshd/digit-eye)
 
-Unfinished demo for a camping game I had envisioned using Godot. Even though the game is not finished, it helped me learn about Github, and cemented various other OOP ideas for me. 
+Built a convolutional neural network trained on MNIST data (a collection of 60,000 handwritten digits) to be able to classify new, custom handwritten digits. Check it out on hugging face [here!](https://huggingface.co/spaces/waffleshd/digit-eye)
 
 
