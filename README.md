@@ -19,7 +19,7 @@
 
 Built a convolutional neural network trained on MNIST data (a collection of 60,000 handwritten digits) to be able to classify new, custom handwritten digits. Check it out on hugging face [here!](https://huggingface.co/spaces/waffleshd/digit-eye)
 
-![Preview of Digit Eye](digit-eye.png)
+![Preview of Digit Eye](digit-eye.gif)
 
 📊 **Gradio Sorting Project** - (https://github.com/waffleshd/gradio-sort-project)
 
