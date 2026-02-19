@@ -10,10 +10,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## About Me 💭
-- Black belt instructor 🥋 : I've spent years teaching children and adults martial arts, which not only has helped me stay in shape, but has also helped me gain invaluable skills working with people from various walks of life
-
-
 ## Featured Projects
 
 🔢 **Digit Eye** - (https://github.com/waffleshd/digit-eye)
