@@ -22,7 +22,7 @@ Built a convolutional neural network trained on MNIST data (a collection of 60,0
 
 A simple weather app with current weather data, 5-day forecast, and SQLite implementation to store historical weather data. 
 
-![Preview of Weather App](WeatherAppDemo.png)
+![Preview of Weather App](WeatherAppDemo)
 
 📊 **Gradio Sorting Project** - (https://github.com/waffleshd/gradio-sort-project)
 
