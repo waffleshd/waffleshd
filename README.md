@@ -9,6 +9,11 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&amp;logo=javascript&amp;color=white)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&amp;logo=html&amp;color=white)
+![SQL](https://img.shields.io/badge/SQLite-green?style=for-the-badge&amp;logo=sqlite&amp;color=green)
+![Flask](https://img.shields.io/badge/flask-yellow?style=for-the-badge&amp;logo=flask&amp;color=black)
+![API](https://img.shields.io/badge/API-orange?style=for-the-badge&amp;logo=api&amp;color=yellow)
 
 ## Featured Projects
 
