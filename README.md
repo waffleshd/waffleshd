@@ -14,6 +14,7 @@
 ![SQL](https://img.shields.io/badge/SQLite-green?style=for-the-badge&amp;logo=sqlite&amp;color=green)
 ![Flask](https://img.shields.io/badge/flask-yellow?style=for-the-badge&amp;logo=flask&amp;color=black)
 ![API](https://img.shields.io/badge/API-orange?style=for-the-badge&amp;logo=api&amp;color=yellow)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLO-yellow?style=for-the-badge&labelColor=black)
 
 ## Featured Projects
 
