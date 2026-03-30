@@ -24,6 +24,12 @@ Built a convolutional neural network trained on MNIST data (a collection of 60,0
 
 ![Preview of Digit Eye](digit-eye.gif)
 
+🎮 **BRM5 Player Detector** - (https://github.com/waffleshd/brm5-player-detector)
+
+Realtime player detector for the game Blackhawk Rescue Mission 5. Collected and processed my own data, and used it to train a custom object detection model to detect players ingame.
+
+![Preview of Player Detector](brm5-screenshot.png)
+
 ☁️ **Weather App** - (https://github.com/waffleshd/weather-app)
 
 A simple weather app with current weather data, 5-day forecast, and SQLite implementation to store historical weather data. 
@@ -35,9 +41,3 @@ A simple weather app with current weather data, 5-day forecast, and SQLite imple
 Originally my final project for my computing class, this project visually displays how bubble sort (my personal fave based on looks) works. It also taught me how to use gradio, which I will definitely be using more in any future AI projects.
 
 ![Preview of the Sorter](gradio_sort_preview.png)
-
-🐤 **Flappy Bird AI** - (https://github.com/waffleshd/NEAT-Flappy-Bird)
-
-Flappy bird is too difficult, so I built my own version of it and then set a neural net loose on it. I used NEAT (neuroevolution of augmented topology), an evolutionary algorithm to learn to play flappy bird. In the end, it was able to play so well that it never loses.
-
-Watch it at work: https://youtu.be/1FoqGZJ0d1U
